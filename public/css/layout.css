@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+article {
+    margin: auto;
+    height: 300px;
+    width: 80%;
+    background-color: red;
+}
